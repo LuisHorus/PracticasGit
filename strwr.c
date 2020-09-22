@@ -5,6 +5,8 @@
 int main(int argc, char const *argv[])
 {
 	
+	char ;
+
 	printf("");
 
 	return 0;
